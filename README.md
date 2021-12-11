@@ -24,7 +24,8 @@ plot '<grep eps_0.01 pspectrum.txt' u 2:3:4 w p pt 7 ps 1,\
      '<grep eps_0.05 pspectrum.txt' u 2:3:4 w p pt 7 ps 1,\
      
      '<grep eps_0.10 pspectrum.txt' u 2:3:4 w p pt 7 ps 1 
-
+     
+You will obtain a result similar to that shown in Figure1.
 
 
 For more info, reach out to me. 
